@@ -1,0 +1,6 @@
+sqlalchemy==2.0.17
+selenium==4.2.0
+pandas==2.0.3
+confluent_kafka==2.1.0
+requests==2.31.0
+environ-config==23.2.0
